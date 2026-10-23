@@ -1,5 +1,9 @@
 # CalcPro — Smart Scientific Calculator
 
+**Live Demo:** https://calc-pro-orpin.vercel.app
+
+**GitHub Repository:** https://github.com/Abdulrehman677/CalcPro
+
 A modern, feature-rich calculator built to make mathematical calculations easier, faster, and more intuitive. CalcPro combines a clean interface with powerful calculation tools in a responsive web application.
 
 ## Overview
@@ -44,7 +48,7 @@ Install the following before running the project:
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/Abdulrehman677/CalcPro.git
    ```
 
 2. Open the project directory:
@@ -124,6 +128,12 @@ Preview the production build:
 ```bash
 npm run preview
 ```
+
+## Deployment
+
+CalcPro is deployed using Vercel.
+
+**Live Website:** https://calc-pro-orpin.vercel.app
 
 ## Future Improvements
 
